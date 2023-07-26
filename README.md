@@ -1,4 +1,4 @@
-# maxlearn
+# Maxlearn ✨ GDSC
 
 A new Flutter project.
 
